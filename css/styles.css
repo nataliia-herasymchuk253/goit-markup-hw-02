@@ -97,6 +97,35 @@ font-family: "Roboto", sans-serif;*/
         text-align: center;
         color: #434455;
  }
+ .hero {
+    background-color: #2e2f42;
+ }
+ .hero-title {
+        font-size: 56px;
+        line-height: 107%;
+        letter-spacing: 0.02em;
+        text-align: center;
+        color: #fff;
+ }
+ .form-button {
+        background: #4d5ae5;      
+ }
+ .style-button {
+        font-weight: 500;
+        line-height: 150%;
+        letter-spacing: 0.04em;
+        color: #fff;
+ }
+
+ .style-button:hover,
+ .style-button:focus {
+     background-color: #404bbf;
+    cursor: pointer;
+ }
+
+
+
+
         /* --- working---- */
    .footer-text {
             font-weight: 400;
