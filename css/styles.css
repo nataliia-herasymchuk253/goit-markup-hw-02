@@ -71,15 +71,26 @@ font-family: "Roboto", sans-serif;*/
         line-height: 150%;
         letter-spacing: 0.02em;
         color: #434455;
-
   }
+
+  /*---section 3----*/
+
+.section-team {
+    background-color: #F4F4FD
+}
+
  .section-title {
     font-weight: 700;
         font-size: 36px;
         line-height: 111%;
         letter-spacing: 0.02em;
         text-align: center;
+        text-transform: capitalize
         color: #2e2f42;
+ }
+
+ .card-item {
+    background-color: #FFFFFF
  }
  .name {
     font-weight: 500;
@@ -120,6 +131,7 @@ font-family: "Roboto", sans-serif;*/
      background-color: #404bbf;
     cursor: pointer;
  }
+
 
 
 
