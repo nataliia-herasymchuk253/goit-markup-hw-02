@@ -115,8 +115,8 @@ font-family: "Roboto", sans-serif;*/
          color: #fff;
  }
 
- .style-button:hover,
- .style-button:focus {
+ .form-button:hover,
+ .form-button:focus {
      background-color: #404bbf;
     cursor: pointer;
  }
